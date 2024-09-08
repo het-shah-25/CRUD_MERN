@@ -29,8 +29,6 @@ To get started with the project, follow these steps:
    cd product-crud-application
    ```
 
-````
-
 2. **Install Backend Dependencies**
 
    Navigate to the `backend` directory and install dependencies:
@@ -86,4 +84,7 @@ To get started with the project, follow these steps:
 - **GET /api/products/:id**: Get a product by ID.
 - **PUT /api/products/:id**: Update a product by ID.
 - **DELETE /api/products/:id**: Delete a product by ID.
-````
+
+```
+
+```
