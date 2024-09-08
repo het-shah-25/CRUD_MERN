@@ -1,0 +1,18 @@
+export const COLORS = {
+  primary: "#1A5276",
+  secondary: "#FAFAFA",
+  accent: "#28B463",
+  warning: "#F39C12",
+  error: "#E74C3C",
+  text: "#2C3E50",
+  hover: "#34495E",
+  background: "#ECECEC",
+  headerBackground: "#FFFFFF",
+  tableBackground: "#FFFFFF",
+  tableHeaderBackground: "#F5F5F5",
+  tableHeaderBorder: "#DDDDDD",
+  tableRowHover: "#F9F9F9",
+  tableBorder: "#DADADA",
+  paginationButton: "#E5E5E5",
+  paginationActive: "#1A5276",
+};

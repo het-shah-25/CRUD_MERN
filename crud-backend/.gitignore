@@ -1,0 +1,49 @@
+# Maven / Gradle
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Log files
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+application.properties
+
+# Docker
+docker-compose.override.yml
+
+# IDEs
+*.sublime-workspace
+*.sublime-project
+*.swp
+*.swo
+*.swo
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Environment variables
+.env
+
+# Spring Boot
+spring-boot-devtools/
