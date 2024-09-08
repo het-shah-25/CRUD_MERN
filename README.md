@@ -65,7 +65,7 @@ To get started with the project, follow these steps:
 
      ```bash
      cd backend
-     npm start
+     nodemon server.js
      ```
 
    - In the second terminal, start the React frontend:
@@ -84,7 +84,3 @@ To get started with the project, follow these steps:
 - **GET /api/products/:id**: Get a product by ID.
 - **PUT /api/products/:id**: Update a product by ID.
 - **DELETE /api/products/:id**: Delete a product by ID.
-
-```
-
-```
